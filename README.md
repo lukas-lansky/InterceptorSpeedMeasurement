@@ -1,6 +1,6 @@
 # InterceptorSpeedMeasurement
 
-## Results
+## Results 
 
 ```
 BenchmarkDotNet=v0.9.7.0
